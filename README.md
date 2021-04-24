@@ -28,4 +28,4 @@ The key of this project is to help you understand how to pick the components tha
 3. Start building!
 
 That is it! Start coding your first React website.
-Have fun!
+Have fun!!
